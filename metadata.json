@@ -1,0 +1,7 @@
+{
+  "name": "Генератор на базе Gemini",
+  "description": "Приложение-генератор для создания уникального текста и изображений с помощью Google Gemini API.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
